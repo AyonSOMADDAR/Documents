@@ -1,0 +1,2 @@
+Hola Amigos!
+Here is a tute on how to use your terminal to access github
